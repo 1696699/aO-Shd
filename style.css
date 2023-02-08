@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+#fcps160{
+    margin-top: 15px;
+}
+#textAbout1{
+    margin: auto;
+    padding: 100px;
+}
+#textAbout2{
+    margin-top: 20px;
+    margin: auto;
+    padding: 100px;
+}
+.image-section {
+    display: flex;
+  justify-content: center;
+  background-Color: white;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    
+}
+#news1{
+    width: 500px;
+}
+#news{
+    background-color: blanchedalmond;
+    margin: auto;
+}
+.my_nav_bar{
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
